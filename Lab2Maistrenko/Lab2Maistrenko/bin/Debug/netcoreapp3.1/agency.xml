@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agencies>
+  <agency>
+    <agencyId>1</agencyId>
+    <addressId>1</addressId>
+    <nameAgency>FlatFy</nameAgency>
+  </agency>
+  <agency>
+    <agencyId>2</agencyId>
+    <addressId>1</addressId>
+    <nameAgency>DomRia</nameAgency>
+  </agency>
+</agencies>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<apartments>
+  <apartment>
+    <apartmentId>1</apartmentId>
+    <addressId>1</addressId>
+    <area>50</area>
+    <price>10500</price>
+    <flat>4</flat>
+  </apartment>
+  <apartment>
+    <apartmentId>2</apartmentId>
+    <addressId>1</addressId>
+    <area>70</area>
+    <price>11500</price>
+    <flat>3</flat>
+  </apartment>
+  <apartment>
+    <apartmentId>3</apartmentId>
+    <addressId>1</addressId>
+    <area>20</area>
+    <price>9500</price>
+    <flat>2</flat>
+  </apartment>
+</apartments>

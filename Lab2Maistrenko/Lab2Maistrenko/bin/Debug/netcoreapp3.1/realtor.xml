@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<realtors>
+  <realtor>
+    <realtorId>1</realtorId>
+    <realtorName>Ivanna</realtorName>
+    <realtorPatronymic>Boryslavivna</realtorPatronymic>
+    <realtorSurname>Shevchenko</realtorSurname>
+    <realtorPhoneNumber>380990339719</realtorPhoneNumber>
+    <agencyId>1</agencyId>
+  </realtor>
+  <realtor>
+    <realtorId>2</realtorId>
+    <realtorName>Mariia</realtorName>
+    <realtorPatronymic>Oleksandrivna</realtorPatronymic>
+    <realtorSurname>Khvostova</realtorSurname>
+    <realtorPhoneNumber>38077839023</realtorPhoneNumber>
+    <agencyId>1</agencyId>
+  </realtor>
+  <realtor>
+    <realtorId>3</realtorId>
+    <realtorName>Viacheslav</realtorName>
+    <realtorPatronymic>Mstyslavovych</realtorPatronymic>
+    <realtorSurname>Lubianets</realtorSurname>
+    <realtorPhoneNumber>3809902295671</realtorPhoneNumber>
+    <agencyId>2</agencyId>
+  </realtor>
+</realtors>

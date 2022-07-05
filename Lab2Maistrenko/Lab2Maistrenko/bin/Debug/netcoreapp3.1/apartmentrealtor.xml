@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<apartmentsrealtor>
+  <apartmentrealtor>
+    <realtorId>1</realtorId>
+    <apartmentId>1</apartmentId>
+    <apartmentsrealtorId>1</apartmentsrealtorId>
+    <overPrice>400</overPrice>
+  </apartmentrealtor>
+</apartmentsrealtor>

@@ -1,0 +1,12 @@
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/bin/Debug/netcoreapp3.1/Lab2Maistrenko.deps.json
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/bin/Debug/netcoreapp3.1/Lab2Maistrenko.runtimeconfig.json
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/bin/Debug/netcoreapp3.1/Lab2Maistrenko.runtimeconfig.dev.json
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/bin/Debug/netcoreapp3.1/Lab2Maistrenko.dll
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/bin/Debug/netcoreapp3.1/Lab2Maistrenko.pdb
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.csprojAssemblyReference.cache
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.AssemblyInfoInputs.cache
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.AssemblyInfo.cs
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.csproj.CoreCompileInputs.cache
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.dll
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.pdb
+/Users/sonyamaiystrenko/Projects/Lab2Maistrenko/Lab2Maistrenko/obj/Debug/netcoreapp3.1/Lab2Maistrenko.genruntimeconfig.cache
